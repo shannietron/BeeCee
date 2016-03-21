@@ -2761,7 +2761,6 @@ type 0309, grid 2.5 mm</description>
 <pinref part="P+1" gate="VCC" pin="VCC"/>
 <pinref part="U$1" gate="G$1" pin="VBUS"/>
 <wire x1="15.24" y1="60.96" x2="20.32" y2="60.96" width="0.1524" layer="91"/>
-<wire x1="15.24" y1="60.96" x2="20.32" y2="60.96" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="P+3" gate="VCC" pin="VCC"/>
